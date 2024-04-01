@@ -46,7 +46,7 @@ function storeData(v) {
 
 
 
-// Folowinf LOGIC is for calculating
+// Folowing LOGIC is for calculating
 
 function calData() {
     let screen = document.getElementById('screen');
@@ -57,10 +57,7 @@ function calData() {
 
 }
 
-
-
-// followingis for erasing data
-
+// Folowing LOGIC is for clearing
 
 function clrData(){
     document.getElementById('screen').value="";
